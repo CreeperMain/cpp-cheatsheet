@@ -1,13 +1,12 @@
 <a href="https://github.com/mortennobel/cpp-cheatsheet"><img align="right" src="https://camo.githubusercontent.com/38ef81f8aca64bb9a64448d0d70f1308ef5341ab/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"></a>
 
 # C++ QUICK REFERENCE / C++ CHEATSHEET
-Based on <a href="http://www.pa.msu.edu/~duxbury/courses/phy480/Cpp_refcard.pdf">Phillip M. Duxbury's C++ Cheatsheet</a> and edited by Morten Nobel-Jørgensen.
-The cheatsheet focus is both on the language as well as common classes from the standard library.
-C++11 additions is inspired by <a href="https://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov">ISOCPP.org C++11 Cheatsheet</a>).
+This is a personal reference for C++ forked from the <a href="https://github.com/mortennobel/cpp-cheatsheet">mortennobel/cpp-cheatsheet</a> repository by Morten Nobel-Jørgensen 
+and in turn he based it off <a href="http://www.pa.msu.edu/~duxbury/courses/phy480/Cpp_refcard.pdf">Phillip M. Duxbury's C++ Cheatsheet</a>. The main goal of this cheatsheet is to add in references for libraries I use frequently like cstdlib (I know its a C library shushh), which the original cheatsheet didn't include.
+I'll also try to update it when anything major comes out so there might be a lot of legacy stuff I left in by accident, maybe one day I'll update it on par with C++XX.
+And finally the reason I removed the cheatsheet-as-source-file from the original repo is because my editor Neovim, supports syntax of other language in markdown (again personal cheatsheet).
 
-The goal is to give a concise overview of basic, modern C++ (C++14).
-
-The document is hosted on https://github.com/mortennobel/cpp-cheatsheet. Any comments and feedback are appreciated.
+If I missed something or you think you might have a cool addition feel free to open a pull request.
 
 ## Preprocessor
 
